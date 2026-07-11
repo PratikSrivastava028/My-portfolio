@@ -14,7 +14,6 @@ import {
   SiTailwindcss,
   SiExpress,
   SiMongodb,
-  SiSocketdotio,
   SiThreedotjs,
   SiG2,
 } from "react-icons/si";
